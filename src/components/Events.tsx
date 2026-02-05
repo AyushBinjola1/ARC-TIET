@@ -35,7 +35,7 @@ const events: Event[] = [
     date: 'September 10, 2025',
     type: 'Innovation',
     image: 'https://images.unsplash.com/photo-1485827404703-89b55fcc595e?w=600&h=400&fit=crop',
-    description: 'Showcasing groundbreaking innovations by Thaparite entrepreneurs and researchers.',
+    description: 'Showcasing groundbreaking innovations by Thaparians entrepreneurs and researchers.',
   },
 ];
 
@@ -72,7 +72,7 @@ export function Events() {
             Don't Miss <span className="text-gradient">The Action</span>
           </h2>
           <p className="text-gray-400 text-lg max-w-2xl mx-auto">
-            Join exciting events that bring together the Thaparite community from around the globe
+            Join exciting events that bring together the Thaparians community from around the globe
           </p>
         </div>
 

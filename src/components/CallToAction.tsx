@@ -34,7 +34,7 @@ export function CallToAction() {
               Ready to <span className="text-gradient">Reconnect</span>?
             </h2>
             <p className="text-xl text-gray-400 max-w-2xl mx-auto mb-10">
-              Join the vibrant community of 50,000+ Thaparians. Network, mentor, and grow together.
+              Join the vibrant community of 20,000+ Thaparians. Network, mentor, and grow together.
             </p>
 
             <div className="flex flex-col sm:flex-row items-center justify-center gap-4">

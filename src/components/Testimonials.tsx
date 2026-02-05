@@ -10,7 +10,7 @@ interface Testimonial {
 
 const testimonials: Testimonial[] = [
   {
-    quote: "TIET gave me the foundation to dream big. The alumni network opened doors I never knew existed. Forever grateful to be a Thaparite!",
+    quote: "TIET gave me the foundation to dream big. The alumni network opened doors I never knew existed. Forever grateful to be a Thaparians!",
     name: " Krishan Kumar",
     batch: "1990",
     role: "Senior Project Manager (Vice President), UOB, Singapore",
@@ -24,7 +24,7 @@ const testimonials: Testimonial[] = [
     image: "https://d3sr7cc30ek8f4.cloudfront.net/images/size:200x200/type:crop/prod/5a7178f2ce3ae50007239ee1/1517385983-7-0383-1745/0-0sHn70nhrxwGxKPDyHzzYd9-8f6GxYPHsrzlU3nQ-poFat0a00zPfO9-3ioGa-HIPzKjiB-QECg7xmZAMJZXch5QEGg7aSJAMND0I8ryRIg4xXJvWvwlRTg0.bin",
   },
   {
-    quote: "Being part of the Thaparite family means having support wherever you go. I've found mentors and partners across continents!",
+    quote: "Being part of the Thaparians family means having support wherever you go. I've found mentors and partners across continents!",
     name: "Sumeet Aggarwal",
     batch: "1994",
     role: "COO - Cash Equities Europe at Barclays Investment Bank, Barclays",
